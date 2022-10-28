@@ -2,7 +2,7 @@
 title: Modding
 description: Modding index
 published: true
-date: 2022-10-28T01:34:10.408Z
+date: 2022-10-28T03:27:29.249Z
 tags: modding
 editor: markdown
 dateCreated: 2022-10-28T01:31:15.543Z
@@ -17,4 +17,5 @@ dateCreated: 2022-10-28T01:31:15.543Z
 ## General Info/Reference
 * [New GameInfo Format](/Development/Modding/GameInfo)
 * [ConVar Defaults (cvar_defaults.cfg)](/Development/Modding/CvarDefaults)
+* [Dynamic Mounts](/Development/Modding/Dynamic-Mounts)
 {.links-list}
