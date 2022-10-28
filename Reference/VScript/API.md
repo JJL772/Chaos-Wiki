@@ -2,16 +2,10 @@
 title: VScript API Docs
 description: List of all VScript functions
 published: true
-date: 2022-10-26T07:50:55.907Z
+date: 2022-10-28T01:42:19.762Z
 tags: engine, reference, vscript
 editor: markdown
 dateCreated: 2022-10-26T07:50:55.907Z
----
-
----
-layout: default
-title: VScript API Reference
-parent: Reference
 ---
 
 # VScript API Reference
